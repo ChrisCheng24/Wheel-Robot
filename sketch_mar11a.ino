@@ -10,11 +10,10 @@ void loop() {
   analogWrite(6, LOW); 
   analogWrite(10, LOW); 
   analogWrite(11, 100); 
-  delay(330); 
+  delay(330);
   
-  
- analogWrite(5, 100); 
- analogWrite(6, LOW); 
+  analogWrite(5, 100); 
+  analogWrite(6, LOW); 
   analogWrite(10, 100); 
   analogWrite(11, LOW); 
   delay(1000);
@@ -26,7 +25,7 @@ void loop() {
 //  delay(3000); 
   
 
-  //analogWrite(5, 200); 
+//  analogWrite(5, 200); 
 //  analogWrite(6, LOW); 
 //  analogWrite(10, LOW); 
 //  analogWrite(11, LOW); 
